@@ -1,6 +1,7 @@
 {
   "name": "ngmodal",
   "version": "2.0.0",
+  "main": "dist/ng-modal.js",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-coffee": "~0.7",
